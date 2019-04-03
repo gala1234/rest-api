@@ -1,2 +1,2 @@
 # rest-api
-Simple API for manage products.
+Simple API rest based on MongoDB for manage products.
